@@ -9,6 +9,7 @@ public class StringUser {
 
     /**
      * String
+     *
      */
     String app="冯吉星";
     String bpp=app+"app";
